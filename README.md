@@ -10,12 +10,12 @@ Description: [I Design, You Build! - Frontend Challenge](https://blog.zernonia.c
 
 ### Targets
 
-🎯 Fetch from provided API
-🎯 Search games by name
-🎯 Sort games by "Price", "Name"
-🎯 Carousel item
-🎯 Responsive design
-🎯 External link to game's page on Steam
+- 🎯 Fetch from provided API
+- 🎯 Search games by name
+- 🎯 Sort games by "Price", "Name"
+- 🎯 Carousel item
+- 🎯 Responsive design
+- 🎯 External link to game's page on Steam
 
 **Layout**: https://www.figma.com/file/v9WwrvuGFZHVLy4z3wxHGi/STAEM?node-id=3%3A2
 
