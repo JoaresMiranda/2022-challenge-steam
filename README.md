@@ -1,12 +1,14 @@
+(thumbnail.png)
+
 # I Design, You Build - Frontend Challenge
 
 Challenge created by [Zernonia](https://blog.zernonia.com) to improve techniques as a frontend developer
 
----
-
 ## About Challenge
 
-Description: [I Design, You Build! - Frontend Challenge](https://blog.zernonia.com/i-design-you-build-frontend-challenge-4-supabase-version)
+[I Design, You Build! - Frontend Challenge](https://blog.zernonia.com/i-design-you-build-frontend-challenge-4-supabase-version)
+
+Create a landing page like the [layout](https://www.figma.com/file/v9WwrvuGFZHVLy4z3wxHGi/STAEM?node-id=3%3A2) created by [Zernonia](https://blog.zernonia.com) using fetch to consume the API and include filters and search.
 
 ### Targets
 
