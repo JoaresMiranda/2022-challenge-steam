@@ -1,4 +1,4 @@
-(thumbnail.png)
+![Thumbnail Project](./thumbnail.png)
 
 # I Design, You Build - Frontend Challenge
 
